@@ -15,3 +15,5 @@
  https://github.com/CelestiaFN/Solara
 
  https://github.com/RazerFrFr/Voltronite
+
+ https://github.com/RazerFrFr/Frostbite
