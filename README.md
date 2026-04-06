@@ -12,4 +12,5 @@
  https://gofile.io/d/reBECI
  (Citra backend.zip)
 
+ https://github.com/CelestiaFN/Solara
 
