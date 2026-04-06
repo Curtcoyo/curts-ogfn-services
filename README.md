@@ -17,9 +17,7 @@ XMPP
 Parties & Friends system
 Equipping
 Cloud Storage
-
- 
- Resources & Downloads
+Resources & Downloads
 
  
  https://github.com/Curtcoyo/Arena-vbucks-dll/tree/main
