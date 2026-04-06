@@ -13,7 +13,6 @@ Supported Backends for Helios Backend
  Fortnite Release 7.10 (CL-4667333)
 
 Features
-
 XMPP
 Parties & Friends system
 Equipping
