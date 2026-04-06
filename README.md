@@ -10,7 +10,7 @@ Parties & Friends
 Equipping
 CloudStorage
 
-https://github.com/astro0121/Astro-Launcher
+
 https://github.com/Curtcoyo/Arena-vbucks-dll/tree/main
 https://youtu.be/x64mRtXJvRQ?si=EBe57STVVjEbKR8b
 
